@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  DragAndDrop
 //
-//  Created by Ratheesh on 17/07/18.
-//  Copyright © 2018 Ratheesh. All rights reserved.
+//  Created by Venu on 17/07/18.
+//  Copyright © 2018 Venu. All rights reserved.
 //
 
 import UIKit
