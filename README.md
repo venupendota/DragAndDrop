@@ -1,9 +1,16 @@
 # DragAndDrop
-drag your image cell and drop it in your destination or you can simply throw it to destination.
+drag your image and drop it in your destination or you can simply throw it to destination.
 
-Installation.....
+# Installation
 
-drag and drop the source files to your project from this example project...
+This branch supports Swift 3.
+
+# Manual
+
+drag and drop the DragAndDropSource folder to your project from this example project...
+
+
+# Usage
 
 step1:  make DragAndDropController as your parent class.
       
@@ -26,7 +33,16 @@ step5:  call this method to intialize your gestures...
         self.addGesturesForCollectionView()
         
         
-        
-        
-        
-   Have fun!!!! Happy coding
+# Requirements
+
+Xcode 9+
+Swift 3.0
+iOS 8+
+ARC
+
+# License
+
+This project is under MIT license. For more information, see LICENSE file.
+
+
+Have fun... Happy Coding!!!
