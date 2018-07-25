@@ -3,7 +3,7 @@ drag your image and drop it in your destination or you can simply throw it to de
 
 # Installation
 
-This branch supports Swift 3.
+This branch supports Swift 3 and X code 9.
 
 # Manual
 
