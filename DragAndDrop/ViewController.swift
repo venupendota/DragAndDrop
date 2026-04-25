@@ -15,6 +15,8 @@ class ViewController: DragAndDropController {
     
     var imageCollections = [DataClass]()
     
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
